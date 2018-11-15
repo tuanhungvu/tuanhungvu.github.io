@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://www.linkedin.com/in/tuanhungvu/
 author_profile: true
 redirect_from:
   - /resume
