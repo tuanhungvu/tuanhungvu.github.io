@@ -17,6 +17,10 @@ I am a deep learning researcher at valeo.ai, France. I received my PhD from Éco
 
 * Internship at NEC Labs, Cupertino in summer 2017
 
+* [Code](https://github.com/aosokin/cnn_head_detection) for the ICCV'15 paper was released.
+
 * A paper of human head detection in movies is accepted to ICCV'15
+
+* [Dataset](https://www.di.ens.fr/willow/research/actionsfromscenes/SUNAction.zip) for the ECCV'14 paper was released.
 
 * A paper of action prediction is accepted to ECCV'14
