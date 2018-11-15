@@ -11,6 +11,8 @@ I am a deep learning researcher at valeo.ai, France. I received my PhD from Éco
 
 ## NEWS
 
+* Available master/PhD internship positions at valeo.ai. Contact me at tuan-hung[dot]vu[at]valeo[dot]com
+
 * A paper of object detection in videos is accepted to WACV'19
 
 * From 03/2018 I'll join valeo.ai as a deep learning researcher.
