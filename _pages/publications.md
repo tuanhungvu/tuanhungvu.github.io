@@ -21,8 +21,8 @@ Tuan-Hung VU, Anton Osokin, Ivan Laptev
 
 [Context-aware CNNs for person head detection](https://arxiv.org/abs/1511.07917)
 Tuan-Hung VU, Anton Osokin, Ivan Laptev
-*ICCV 2015*
+*ICCV 2015* [[page](https://www.di.ens.fr/willow/research/headdetection/),[video](https://www.youtube.com/watch?v=1hskQb_ZKCo)]
 
-[Predicting actions from static scenes](https://www.di.ens.fr/willow/research/actionsfromscenes/)
+[Predicting actions from static scenes](https://www.di.ens.fr/willow/research/actionsfromscenes/paper/eccv14_actionsfromscenes.pdf)
 Tuan-Hung VU, Catherine Olsson, Ivan Laptev, Aude Oliva, Josef Sivic
-*ECCV 2014*
+*ECCV 2014* [[page](https://www.di.ens.fr/willow/research/actionsfromscenes/)]
