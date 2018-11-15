@@ -1,11 +1,10 @@
 # main links links
 main:
-  - title: "publications"
+  - title: "Publications"
     url: /publications/
     
-  - title: "code & data"
+  - title: "Code & data"
     url: /cv/
     
   - title: "CV"
     url: https://www.linkedin.com/in/tuanhungvu/
-    
