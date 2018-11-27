@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a deep learning researcher at valeo.ai, France. I received my PhD from École Normale Supérieure, under the supervision of Ivan Laptev. I have a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision (MVA) from École Normale Supérieure de Cachan. I obtained the engineering degree from Télécom ParisTech in 2014.
+I am a Research scientist at valeo.ai, France. I received my PhD from École Normale Supérieure, under the supervision of Ivan Laptev. I have a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision (MVA) from École Normale Supérieure de Cachan. I obtained the engineering degree from Télécom ParisTech in 2014.
 
 ## NEWS
 
@@ -15,7 +15,7 @@ I am a deep learning researcher at valeo.ai, France. I received my PhD from Éco
 
 * **NEW** A paper of object detection in videos is accepted to WACV'19
 
-* From 03/2018 I'll join valeo.ai as a deep learning researcher.
+* From 03/2018 I'll join valeo.ai as a research scientist.
 
 * Internship at NEC Labs, Cupertino in summer 2017
 
