@@ -15,7 +15,7 @@ Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, [Mathieu Cord](http://webia.lip6.fr/
 *Arxiv 2018*
 
 [Memory Warps for Learning Long-Term Online Video Representations](https://arxiv.org/abs/1803.10861)  
-Tuan-Hung Vu, [Wongun Choi](http://www-personal.umich.edu/~wgchoi), Samuel Schulter, [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker)  
+Tuan-Hung Vu, [Wongun Choi](http://www-personal.umich.edu/~wgchoi), [Samuel Schulter](http://www.nec-labs.com/samuel-schulter), [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker)  
 *WACV 2019*
 
 [Tube-CNN: Modeling temporal evolution of appearance for object detection in video]()  
