@@ -9,10 +9,16 @@ redirect_from:
 {% include base_path %}
 
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
-![ADVENT](/images/advent.jpg)
+<table border="0">
+    <tr>
+        ![](/images/advent_teaser.jpg)
+    </tr>
+    <tr>
 [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1811.12833)  
 Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, [Matthieu Cord](http://webia.lip6.fr/~cord), [Patrick Pérez](https://ptrckprz.github.io)  
 *Arxiv 2018*
+    </tr>
+</table>
 
 [Memory Warps for Learning Long-Term Online Video Representations](https://arxiv.org/abs/1803.10861)  
 Tuan-Hung Vu, [Wongun Choi](http://www-personal.umich.edu/~wgchoi), [Samuel Schulter](http://www.nec-labs.com/samuel-schulter), [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker)  
