@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
-
+[](/images/advent.jpg)
 [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1811.12833)  
 Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, [Matthieu Cord](http://webia.lip6.fr/~cord), [Patrick Pérez](https://ptrckprz.github.io)  
 *Arxiv 2018*
