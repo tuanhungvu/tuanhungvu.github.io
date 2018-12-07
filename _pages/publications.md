@@ -18,9 +18,9 @@ Tuan-Hung Vu, [Himalaya Jain](https://scholar.google.com/citations?user=Xl7SNlsA
 Tuan-Hung Vu, [Wongun Choi](http://www-personal.umich.edu/~wgchoi), [Samuel Schulter](http://www.nec-labs.com/samuel-schulter), [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker)  
 *WACV 2019*
 
-[Tube-CNN: Modeling temporal evolution of appearance for object detection in video]()  
+[Tube-CNN: Modeling temporal evolution of appearance for object detection in video](https://arxiv.org/abs/1812.02619)  
 Tuan-Hung Vu, [Anton Osokin](https://aosokin.github.io), [Ivan Laptev](https://www.di.ens.fr/~laptev)  
-*Coming soon 2018*
+*Arxiv 2018*
 
 [Context-aware CNNs for person head detection](https://arxiv.org/abs/1511.07917)  
 Tuan-Hung Vu, [Anton Osokin](https://aosokin.github.io), [Ivan Laptev](https://www.di.ens.fr/~laptev)  
