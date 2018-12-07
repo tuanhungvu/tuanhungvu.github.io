@@ -13,11 +13,11 @@ I am a Research scientist at valeo.ai, France. I received my PhD from [École No
 
 * **NEW** Available master/PhD internship positions at valeo.ai. Contact me at tuan-hung[dot]vu[at]valeo[dot]com
 
-* **NEW** A [technical report](https://arxiv.org/abs/1812.02619) of object detection in videos is online
+* **NEW** The [Tube-CNN](https://arxiv.org/abs/1812.02619) technical report of object detection in videos is online
 
-* **NEW** A [technical report](https://arxiv.org/abs/1811.12833) of unsupervised domain adaptation is online
+* **NEW** The [ADVENT](https://arxiv.org/abs/1811.12833) technical report of unsupervised domain adaptation is online
 
-* **NEW** A [paper](https://arxiv.org/abs/1803.10861) of object detection in videos is accepted to WACV'19
+* **NEW** Our [Memnet](https://arxiv.org/abs/1803.10861) paper of object detection in videos is accepted to WACV'19
 
 * From 03/2018 I'll join valeo.ai as a research scientist.
 
