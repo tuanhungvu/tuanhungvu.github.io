@@ -17,7 +17,7 @@ I am a Research scientist at valeo.ai, France. I received my PhD from [École No
 
 * **NEW** The [ADVENT](https://arxiv.org/abs/1811.12833) technical report of unsupervised domain adaptation is online
 
-* **NEW** Our [Memnet](https://arxiv.org/abs/1803.10861) paper of object detection in videos is accepted to WACV'19
+* **NEW** Our [MemNet](https://arxiv.org/abs/1803.10861) paper of object detection in videos is accepted to WACV'19
 
 * From 03/2018 I'll join valeo.ai as a research scientist.
 
