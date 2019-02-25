@@ -2,6 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Honors and awards"
+    url: /awards/
+
+  - title: "Academic services"
+    url: /academic_services/
     
   - title: "CV"
     url: https://www.linkedin.com/in/tuanhungvu/
