@@ -17,7 +17,7 @@ I am a Research scientist at valeo.ai, France. I received my PhD from [École No
 
 * **NEW** The [Tube-CNN](https://arxiv.org/abs/1812.02619) technical report of object detection in videos is online
 
-* **NEW** The [ADVENT](https://arxiv.org/abs/1811.12833) technical report of unsupervised domain adaptation is online
+* The [ADVENT](https://arxiv.org/abs/1811.12833) technical report of unsupervised domain adaptation is online
 
 * Our [MemNet](https://arxiv.org/abs/1803.10861) paper of object detection in videos is accepted to WACV'19
 
