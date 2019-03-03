@@ -12,7 +12,7 @@ redirect_from:
 
 [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1811.12833)  
 Tuan-Hung Vu, [Himalaya Jain](https://scholar.google.com/citations?user=Xl7SNlsAAAAJ&hl=en), [Maxime Bucher](https://scholar.google.com/citations?user=NbYEOpMAAAAJ&hl=en), [Matthieu Cord](http://webia.lip6.fr/~cord), [Patrick Pérez](https://ptrckprz.github.io)  
-*CVPR 2019 **(ORAL)***
+*CVPR 2019 **(Oral)***
 
 [Memory Warps for Learning Long-Term Online Video Representations](https://arxiv.org/abs/1803.10861)  
 Tuan-Hung Vu, [Wongun Choi](http://www-personal.umich.edu/~wgchoi), [Samuel Schulter](http://www.nec-labs.com/samuel-schulter), [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker)  
