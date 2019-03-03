@@ -13,7 +13,7 @@ I am a Research scientist at valeo.ai, France. I received my PhD from [École No
 
 * **NEW** Available master/PhD internship positions at valeo.ai. Contact me at tuan-hung[dot]vu[at]valeo[dot]com
 
-* **NEW** Our paper [ADVENT](https://arxiv.org/abs/1811.12833) is accepted to CVPR'19
+* **NEW** Our paper [ADVENT](https://arxiv.org/abs/1811.12833) is accepted to CVPR'19 as an **ORAL** presentation.
 
 * **NEW** The [Tube-CNN](https://arxiv.org/abs/1812.02619) technical report of object detection in videos is online
 
