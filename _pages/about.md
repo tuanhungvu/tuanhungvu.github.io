@@ -11,7 +11,7 @@ I am a Research scientist at valeo.ai, France. I received my PhD from [École No
 
 ## NEWS
 
-* **NEW** Available master/PhD internship positions at valeo.ai. Contact me at tuan-hung[dot]vu[at]valeo[dot]com
+* Available master/PhD internship positions at valeo.ai. Contact me at tuan-hung[dot]vu[at]valeo[dot]com
 
 * **NEW** The [DADA](https://arxiv.org/abs/1904.01886) technical report of unsupervised domain adaptation is online
 
