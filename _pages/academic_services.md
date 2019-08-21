@@ -5,5 +5,5 @@ author_profile: true
 ---
 
 ## Conference Reviewer
-* 2019 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-* 2019 IEEE Conference on Computer Vision and Pattern Recognition (ICCV)
+* CVPR'19 ICCV'19
+* AAAI'20
