@@ -16,11 +16,11 @@ Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez
 
 [DADA: Depth-aware Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1904.01886)  
 Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez  
-*ICCV 2019*
+*ICCV 2019* [[code (coming soon)](https://github.com/valeoai/DADA)]
 
 [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1811.12833)  
 Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez  
-*CVPR 2019 **(Oral)***
+*CVPR 2019 **(Oral)*** [[demo](https://www.youtube.com/watch?v=Ihmz0yEqrq0) [code](https://github.com/valeoai/ADVENT)]
 
 [Memory Warps for Learning Long-Term Online Video Representations](https://arxiv.org/abs/1803.10861)  
 Tuan-Hung Vu, Wongun Choi, Samuel Schulter, Manmohan Chandraker 
