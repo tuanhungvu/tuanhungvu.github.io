@@ -11,7 +11,7 @@ I am a Research scientist at valeo.ai, France. I received my PhD from [École No
 
 ## UPDATES
 * **NEW** 08/2019: Invited talk at BNP Paribas AI Summer School
-* **NEW** 07/2019: Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted to ICCV'19. Code is coming soon (here)[https://github.com/valeoai/DADA].
+* **NEW** 07/2019: Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted to ICCV'19. Code is coming soon [here](https://github.com/valeoai/DADA).
 * **NEW** 07/2019: The [ADVENT](https://arxiv.org/abs/1811.12833) code is [released](https://github.com/valeoai/ADVENT).
 * **NEW** 06/2019: The [ZS3](https://arxiv.org/abs/1906.00817) technical report of zero-shot semantic segmentation is online.
 * **NEW** 04/2019: Our paper [ADVENT](https://arxiv.org/abs/1811.12833) is accepted to CVPR'19 as an **Oral** presentation.
