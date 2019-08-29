@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research scientist at valeo.ai, France. I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I have a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from École Normale Supérieure de Cachan. I obtained the engineering degree from [Télécom ParisTech](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_ParisTech) in 2014.
+I am a Research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France. I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I have a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from École Normale Supérieure de Cachan. I obtained the engineering degree from [Télécom ParisTech](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_ParisTech) in 2014.
 
 ## UPDATES
 * **NEW** 08/2019: Invited talk at BNP Paribas AI Summer School
