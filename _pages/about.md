@@ -10,10 +10,11 @@ redirect_from:
 I am a Research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France. I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I have a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from École Normale Supérieure de Cachan. I obtained the engineering degree from [Télécom ParisTech](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_ParisTech) in 2014.
 
 ## UPDATES
+* **NEW** 09/2019: Our paper [Zero-shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) is accepted to NeurIPS'19.
 * **NEW** 08/2019: Invited talk at BNP Paribas AI Summer School
 * **NEW** 07/2019: Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted to ICCV'19. Code is coming soon [here](https://github.com/valeoai/DADA).
 * **NEW** 07/2019: The [ADVENT](https://arxiv.org/abs/1811.12833) code is [released](https://github.com/valeoai/ADVENT).
-* **NEW** 06/2019: The [ZS3](https://arxiv.org/abs/1906.00817) technical report of zero-shot semantic segmentation is online.
+* 06/2019: The [ZS3](https://arxiv.org/abs/1906.00817) technical report of zero-shot semantic segmentation is online.
 * 06/2019: **keynote talk** at [ULAD](http://intelligent-vehicles.org/ulad-2019) - 1st workshop on Unsupervised Learning for Automated Driving - at IV 2019.
 * 04/2019: The [DADA](https://arxiv.org/abs/1904.01886) technical report of unsupervised domain adaptation is online.
 * 04/2019: Our paper [ADVENT](https://arxiv.org/abs/1811.12833) is accepted to CVPR'19 as an **Oral** presentation.

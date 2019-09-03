@@ -12,7 +12,7 @@ redirect_from:
 
 [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  
 Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
-*Arxiv 2019*
+*NeurIPS 2019*
 
 [DADA: Depth-aware Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1904.01886)  
 Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez  
