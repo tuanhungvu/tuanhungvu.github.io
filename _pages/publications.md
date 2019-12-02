@@ -12,7 +12,7 @@ redirect_from:
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/1911.12676)
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez  
-*Arxiv 2019* [demo](https://www.youtube.com/watch?v=WgvBBCEKQVE)
+*Arxiv 2019* [[demo](https://www.youtube.com/watch?v=WgvBBCEKQVE) [code (coming soon)]()]
 
 [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  
 Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
