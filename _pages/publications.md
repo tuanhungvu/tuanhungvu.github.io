@@ -11,7 +11,7 @@ redirect_from:
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/1911.12676)
-Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez
+Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez  
 *Arxiv 2019* [demo](https://www.youtube.com/watch?v=WgvBBCEKQVE)
 
 [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  
@@ -27,7 +27,7 @@ Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez
 *CVPR 2019 **(Oral)*** [[demo](https://www.youtube.com/watch?v=Ihmz0yEqrq0) [code](https://github.com/valeoai/ADVENT)]
 
 [Memory Warps for Learning Long-Term Online Video Representations](https://arxiv.org/abs/1803.10861)  
-Tuan-Hung Vu, Wongun Choi, Samuel Schulter, Manmohan Chandraker 
+Tuan-Hung Vu, Wongun Choi, Samuel Schulter, Manmohan Chandraker  
 *WACV 2019*
 
 [Tube-CNN: Modeling temporal evolution of appearance for object detection in video](https://arxiv.org/abs/1812.02619)  
