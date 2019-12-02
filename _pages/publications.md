@@ -10,6 +10,10 @@ redirect_from:
 
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
+[xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/1911.12676)
+Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez
+*Arxiv 2019*
+
 [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  
 Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
 *NeurIPS 2019*
@@ -28,7 +32,7 @@ Tuan-Hung Vu, Wongun Choi, Samuel Schulter, Manmohan Chandraker
 
 [Tube-CNN: Modeling temporal evolution of appearance for object detection in video](https://arxiv.org/abs/1812.02619)  
 Tuan-Hung Vu, Anton Osokin, Ivan Laptev  
-*Arxiv 2018*
+*Technical report 2018*
 
 [Context-aware CNNs for person head detection](https://arxiv.org/abs/1511.07917)  
 Tuan-Hung Vu, Anton Osokin, Ivan Laptev  
