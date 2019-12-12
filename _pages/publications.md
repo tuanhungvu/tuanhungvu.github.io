@@ -16,7 +16,7 @@ Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pér
 
 [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  
 Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
-*NeurIPS 2019*
+*NeurIPS 2019* [[code](https://github.com/valeoai/ZS3)]
 
 [DADA: Depth-aware Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1904.01886)  
 Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez  
