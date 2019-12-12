@@ -13,10 +13,10 @@ I am a Research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), Fra
 * **NEW** 12/2019: The [DADA](https://arxiv.org/abs/1904.01886) code is [released](https://github.com/valeoai/DADA).
 * **NEW** 12/2019: The [Zero-shot semantic segmentation](https://arxiv.org/abs/1906.00817) code is [released](https://github.com/valeoai/ZS3).
 * **NEW** 12/2019: The [xMUDA](http://arxiv.org/abs/1911.12676) technical report of cross 2D-3D unsupervised domain adaptation is online. [Demo](https://www.youtube.com/watch?v=WgvBBCEKQVE)
-* **NEW** 09/2019: Our paper [Zero-shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) is accepted to NeurIPS'19.
-* **NEW** 08/2019: Invited talk at BNP Paribas AI Summer School
-* **NEW** 07/2019: Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted to ICCV'19. Code is coming soon [here](https://github.com/valeoai/DADA).
-* **NEW** 07/2019: The [ADVENT](https://arxiv.org/abs/1811.12833) code is [released](https://github.com/valeoai/ADVENT).
+* 09/2019: Our paper [Zero-shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) is accepted to NeurIPS'19.
+* 08/2019: Invited talk at BNP Paribas AI Summer School.
+* Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted to ICCV'19. Code is coming soon [here](https://github.com/valeoai/DADA).
+* The [ADVENT](https://arxiv.org/abs/1811.12833) code is [released](https://github.com/valeoai/ADVENT).
 * 06/2019: The [ZS3](https://arxiv.org/abs/1906.00817) technical report of zero-shot semantic segmentation is online.
 * 06/2019: *Keynote talk* at [ULAD](http://intelligent-vehicles.org/ulad-2019) - 1st workshop on Unsupervised Learning for Automated Driving - at IV 2019.
 * 04/2019: The [DADA](https://arxiv.org/abs/1904.01886) technical report of unsupervised domain adaptation is online.
