@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tuanhungvu.github.io
+Token: 4a234a1ef114353c2175bca677dc922bee770830e5d2e13cec34e17ee8707613
