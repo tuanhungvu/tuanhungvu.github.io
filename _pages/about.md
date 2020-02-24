@@ -10,7 +10,7 @@ redirect_from:
 I am a Research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France. I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I have a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from École Normale Supérieure de Cachan. I obtained the engineering degree from [Télécom ParisTech](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_ParisTech) in 2014.
 
 ## UPDATES
-* **NEW** 02/2019: Our paper [xMUDA](http://arxiv.org/abs/1911.12676) is accepted to CVPR'20. Code is coming soon [here](https://github.com/valeoai/xMUDA).
+* **NEW** 02/2020: Our paper [xMUDA](http://arxiv.org/abs/1911.12676) is accepted to CVPR'20. Code is coming soon [here](https://github.com/valeoai/xMUDA).
 * **NEW** 12/2019: The [DADA](https://arxiv.org/abs/1904.01886) code is [released](https://github.com/valeoai/DADA).
 * **NEW** 12/2019: The [Zero-shot semantic segmentation](https://arxiv.org/abs/1906.00817) code is [released](https://github.com/valeoai/ZS3).
 * 12/2019: The [xMUDA](http://arxiv.org/abs/1911.12676) technical report of cross 2D-3D unsupervised domain adaptation is online. [Demo](https://www.youtube.com/watch?v=WgvBBCEKQVE)
