@@ -14,6 +14,10 @@ redirect_from:
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez  
 *CVPR 2020* [[demo](https://www.youtube.com/watch?v=WgvBBCEKQVE) [code (coming soon)]()]
 
+[ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2006.08658)
+Antoin Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez
+*CVPR 2020 Workshop on Scalability in Autonomous Driving*
+
 [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  
 Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
 *NeurIPS 2019* [[code](https://github.com/valeoai/ZS3)]
