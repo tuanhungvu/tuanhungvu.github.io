@@ -12,10 +12,10 @@ redirect_from:
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/1911.12676)
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez  
-*CVPR 2020* [[demo](https://www.youtube.com/watch?v=WgvBBCEKQVE) [code (coming soon)]()]
+*CVPR 2020* [[demo](https://www.youtube.com/watch?v=WgvBBCEKQVE) [[code](https://github.com/valeoai/xmuda)]
 
 [ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2006.08658)
-Antoin Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez
+Antoin Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
 *CVPR 2020 Workshop on Scalability in Autonomous Driving*
 
 [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  

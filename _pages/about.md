@@ -10,9 +10,11 @@ redirect_from:
 I am a Research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France. I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I have a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from École Normale Supérieure de Cachan. I obtained the engineering degree from [Télécom ParisTech](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_ParisTech) in 2014.
 
 ## UPDATES
+* **NEW** 06/2020: The [xMUDA](https://arxiv.org/abs/1911.12676) code is [released](https://github.com/valeoai/xmuda).
 * **NEW** 05/2020: Our paper [ESL](https://arxiv.org/abs/2006.08658) of using entropy-guided pseudo-labels in UDA is accepted to CVPR 2020 Workshop on [Scalability in Autonomous Driving](https://sites.google.com/view/cvpr20-scalability/posters?authuser=0).
 * **NEW** 04/2020: The [BUDA](https://arxiv.org/abs/2004.01130) technical report of boundless unsupervised domain adaptation is online. Code is coming soon [here](https://github.com/valeoai/BUDA).
-* **NEW** 02/2020: Our paper [xMUDA](http://arxiv.org/abs/1911.12676) of cross 2D-3D unsupervised domain adaptation is accepted to CVPR'20. Code is coming soon [here](https://github.com/valeoai/xMUDA).
+* **NEW** 02/2020: Our paper [xMUDA](http://arxiv.org/abs/1911.12676) of cross 2D-3D unsupervised domain adaptation is accepted to CVPR'20.
+
 * **NEW** 01/2020: [Demo at CES](https://www.valeo.com/en/valeo-innovations-at-the-epicenter-of-transformation-in-mobility/), Las Vegas, on pedestrian behavior understanding and forecasting. Press [1](https://www.rtl.fr/actu/futur/ces-2020-la-voiture-autonome-valeo-veut-predire-les-intentions-des-pietons-7799840637), [2](https://bfmbusiness.bfmtv.com/mediaplayer/video/culture-geek-les-voitures-du-futur-sont-au-consumer-electronics-show-0801-1213277.html), [3](https://www.motortrend.com/news/autonomous-car-innovations/), ...
 
 * 12/2019: The [DADA](https://arxiv.org/abs/1904.01886) code is [released](https://github.com/valeoai/DADA).
@@ -20,7 +22,7 @@ I am a Research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), Fra
 * 12/2019: The [xMUDA](http://arxiv.org/abs/1911.12676) technical report of cross 2D-3D unsupervised domain adaptation is online. [Demo](https://www.youtube.com/watch?v=WgvBBCEKQVE)
 * 09/2019: Our paper [Zero-shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) is accepted to NeurIPS'19.
 * 08/2019: Invited talk at BNP Paribas AI Summer School.
-* Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted to ICCV'19. Code is coming soon [here](https://github.com/valeoai/DADA).
+* Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted to ICCV'19.
 * The [ADVENT](https://arxiv.org/abs/1811.12833) code is [released](https://github.com/valeoai/ADVENT).
 * 06/2019: The [ZS3](https://arxiv.org/abs/1906.00817) technical report of zero-shot semantic segmentation is online.
 * 06/2019: *Keynote talk* at [ULAD](http://intelligent-vehicles.org/ulad-2019) - 1st workshop on Unsupervised Learning for Automated Driving - at IV 2019.
