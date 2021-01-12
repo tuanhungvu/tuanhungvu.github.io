@@ -11,11 +11,11 @@ redirect_from:
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
 [Cross-modal Learning for Domain Adaptationin 3D Semantic Segmentation]()  
-Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez
+Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez 
 *Under review at TPAMI*
 
 [Confidence Estimation via Auxiliary Models](https://arxiv.org/abs/2012.06508)  
-Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez
+Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez 
 *Under review at TPAMI*
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/1911.12676)
