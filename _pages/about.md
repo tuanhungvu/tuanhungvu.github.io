@@ -10,12 +10,14 @@ redirect_from:
 I am a Research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France. I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I have a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from École Normale Supérieure de Cachan. I obtained the engineering degree from [Télécom ParisTech](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_ParisTech) in 2014.
 
 ## UPDATES
-* **NEW** 06/2020: The [xMUDA](https://arxiv.org/abs/1911.12676) code is [released](https://github.com/valeoai/xmuda).
-* **NEW** 05/2020: Our paper [ESL](https://arxiv.org/abs/2006.08658) of using entropy-guided pseudo-labels in UDA is accepted to CVPR 2020 Workshop on [Scalability in Autonomous Driving](https://sites.google.com/view/cvpr20-scalability/posters?authuser=0).
-* **NEW** 04/2020: The [BUDA](https://arxiv.org/abs/2004.01130) technical report of boundless unsupervised domain adaptation is online. Code is coming soon [here](https://github.com/valeoai/BUDA).
-* **NEW** 02/2020: Our paper [xMUDA](http://arxiv.org/abs/1911.12676) of cross 2D-3D unsupervised domain adaptation is accepted to CVPR'20.
+* **NEW** 01/2021: The [xMUDA/XMoSSDA]() technical report of "Cross-modal Learning for Domain Adaptationin 3D Semantic Segmentation" is online.
+* **NEW** 01/2021: The [ConDA](https://arxiv.org/abs/2012.06508) technical report of "Confidence Estimation via Auxiliary Models" is online.
 
-* **NEW** 01/2020: [Demo at CES](https://www.valeo.com/en/valeo-innovations-at-the-epicenter-of-transformation-in-mobility/), Las Vegas, on pedestrian behavior understanding and forecasting. Press [1](https://www.rtl.fr/actu/futur/ces-2020-la-voiture-autonome-valeo-veut-predire-les-intentions-des-pietons-7799840637), [2](https://bfmbusiness.bfmtv.com/mediaplayer/video/culture-geek-les-voitures-du-futur-sont-au-consumer-electronics-show-0801-1213277.html), [3](https://www.motortrend.com/news/autonomous-car-innovations/), ...
+* 06/2020: The [xMUDA](https://arxiv.org/abs/1911.12676) code is [released](https://github.com/valeoai/xmuda).
+* 05/2020: Our paper [ESL](https://arxiv.org/abs/2006.08658) of using entropy-guided pseudo-labels in UDA is accepted to CVPR 2020 Workshop on [Scalability in Autonomous Driving](https://sites.google.com/view/cvpr20-scalability/posters?authuser=0).
+* 04/2020: The [BUDA](https://arxiv.org/abs/2004.01130) technical report of boundless unsupervised domain adaptation is online. Code is coming soon [here](https://github.com/valeoai/BUDA).
+* 02/2020: Our paper [xMUDA](http://arxiv.org/abs/1911.12676) of cross 2D-3D unsupervised domain adaptation is accepted to CVPR'20.
+* 01/2020: [Demo at CES](https://www.valeo.com/en/valeo-innovations-at-the-epicenter-of-transformation-in-mobility/), Las Vegas, on pedestrian behavior understanding and forecasting. Press [1](https://www.rtl.fr/actu/futur/ces-2020-la-voiture-autonome-valeo-veut-predire-les-intentions-des-pietons-7799840637), [2](https://bfmbusiness.bfmtv.com/mediaplayer/video/culture-geek-les-voitures-du-futur-sont-au-consumer-electronics-show-0801-1213277.html), [3](https://www.motortrend.com/news/autonomous-car-innovations/), ...
 
 * 12/2019: The [DADA](https://arxiv.org/abs/1904.01886) code is [released](https://github.com/valeoai/DADA).
 * 12/2019: The [Zero-shot semantic segmentation](https://arxiv.org/abs/1906.00817) code is [released](https://github.com/valeoai/ZS3).
@@ -28,11 +30,13 @@ I am a Research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), Fra
 * 06/2019: *Keynote talk* at [ULAD](http://intelligent-vehicles.org/ulad-2019) - 1st workshop on Unsupervised Learning for Automated Driving - at IV 2019.
 * 04/2019: The [DADA](https://arxiv.org/abs/1904.01886) technical report of unsupervised domain adaptation is online.
 * 04/2019: Our paper [ADVENT](https://arxiv.org/abs/1811.12833) is accepted to CVPR'19 as an **Oral** presentation.
+
 * 12/2018: The [Tube-CNN](https://arxiv.org/abs/1812.02619) technical report of object detection in videos is online.
 * 11/2018: The [ADVENT](https://arxiv.org/abs/1811.12833) technical report of unsupervised domain adaptation is online.
 * 09/2018: I successfully defended my PhD!
 * 05/2018: Our [MemNet](https://arxiv.org/abs/1803.10861) paper of object detection in videos is accepted to WACV'19.
 * From 03/2018 I'll join valeo.ai as a research scientist.
+
 * 06/2017: Internship at NEC Labs, Cupertino in summer 2017.
 * 06/2016: [Code](https://github.com/aosokin/cnn_head_detection) for the ICCV'15 paper was released.
 * 11/2015: A [paper](https://www.di.ens.fr/willow/research/headdetection/) of human head detection in movies is accepted to ICCV'15.
