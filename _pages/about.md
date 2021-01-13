@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France (2018-now). I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I obtained an engineering degree from [Télécom ParisTech](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_ParisTech) and a “Master 2” Degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from École Normale Supérieure de Cachan in 2014. My research interests include deep learning, scene understanding, domain adaptation and data augmentation.
+I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France (2018-now). I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I obtained an engineering degree from [Télécom ParisTech](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_ParisTech) and a parallel “Master 2” degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from École Normale Supérieure de Cachan in 2014. My research interests include deep learning, scene understanding, domain adaptation and data augmentation.
 
 ## UPDATES
 * **NEW** 01/2021: The [xMUDA/XMoSSDA]() preprint of "Cross-modal Learning for Domain Adaptationin 3D Semantic Segmentation" is online.
