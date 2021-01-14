@@ -5,10 +5,8 @@ author_profile: true
 ---
 
 ## Conference Reviewer/Program Committee
-* CVPR'19 ICCV'19
-* CVPR'20 ECCV'20 AAAI'20 ICRA'20 IROS'20
-* CVPR'2021 ICLR'21 ICRA'21
+* CVPR ICCV ECCV ICLR AAAI ICRA IROS
 
 ## Journal Reviewer
-- International Journal of Computer Vision (IJCV): 2020-
-- Computer Vision and Image Understanding (CVIU): 2020-
+- International Journal of Computer Vision (IJCV)
+- Computer Vision and Image Understanding (CVIU)
