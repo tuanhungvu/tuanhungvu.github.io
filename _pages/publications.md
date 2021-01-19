@@ -10,7 +10,7 @@ redirect_from:
 
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
-[Cross-modal Learning for Domain Adaptationin 3D Semantic Segmentation]()  
+[Cross-modal Learning for Domain Adaptationin 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253)  
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez 
 *Under review at TPAMI*
 
@@ -20,7 +20,7 @@ Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, 
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/1911.12676)
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez  
-*CVPR 2020* [[demo](https://www.youtube.com/watch?v=WgvBBCEKQVE) [[code](https://github.com/valeoai/xmuda)]
+*CVPR 2020* [[demo](https://www.youtube.com/watch?v=WgvBBCEKQVE) [code](https://github.com/valeoai/xmuda)]
 
 [ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2006.08658)
 Antoin Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
