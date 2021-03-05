@@ -10,7 +10,7 @@ redirect_from:
 I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France (2018-now). I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I obtained an engineering degree from [Télécom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and a parallel “Master 2” degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2014. My research interests include deep learning, scene understanding, domain adaptation and data augmentation.
 
 ## UPDATES
-* **NEWS**: Our paper [Semantic Palette]() on layout-scene generation is accepted to CVPR'2021. Preprint coming soon.
+* **NEWS**: Our paper [Semantic Palette]() on layout-scene generation is accepted to CVPR'2021. Preprint is coming soon.
 
 * 01/2021: The [xMUDA/XMoSSDA]() preprint of "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation" is online.
 * 01/2021: The [ConDA](https://arxiv.org/abs/2012.06508) preprint of "Confidence Estimation via Auxiliary Models" is online.
