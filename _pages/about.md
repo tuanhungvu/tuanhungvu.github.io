@@ -11,6 +11,8 @@ I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), Fra
 
 ## UPDATES
 * **NEWS** 05/2021: Our work in confidence esimation and its use in improving domain adaptation is accepted to T-PAMI. Updated [paper](https://arxiv.org/abs/2012.06508) is coming soon.
+* **NEWS** 05/2021: Outstanding reviewer CVPR'21
+* **NEWS** 03/2021: Outstanding reviewer ICLR'21 
 * **NEWS** 02/2021: Our paper [Semantic Palette]() on layout-scene generation is accepted to CVPR'2021. Preprint is coming soon.
 
 * 01/2021: The [xMUDA/XMoSSDA]() preprint of "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation" is online.
