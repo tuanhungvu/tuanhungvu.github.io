@@ -14,12 +14,12 @@ redirect_from:
 Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez  
 *CVPR 2021* [[demo](https://www.youtube.com/watch?v=ejkbaJD4Emk) [code]()]
 
+[Confidence Estimation via Auxiliary Models](https://arxiv.org/abs/2012.06508)  
+Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
+*TPAMI 2021*
+
 [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253)  
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez  
-*Under review at TPAMI*
-
-[Confidence Estimation via Auxiliary Models](https://arxiv.org/abs/2012.06508)  
-Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez 
 *Under review at TPAMI*
 
 [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
