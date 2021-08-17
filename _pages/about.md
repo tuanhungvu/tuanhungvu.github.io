@@ -11,7 +11,7 @@ I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), Fra
 
 ## UPDATES
 * **NEWS** 08/2021: Our paper on boundless unsupervised domain adaptation is accepted to CVIU. Final (version)[https://arxiv.org/abs/2004.01130] is coming soon.
-* **NEWS** 07/2021: One paper about multi-target domain adaptation is accepted to ICCV'2021
+* **NEWS** 07/2021: One (paper)[https://arxiv.org/abs/2108.06962] about multi-target domain adaptation is accepted to ICCV'2021
 * **NEWS** 07/2021: The [Semantic Palette](https://arxiv.org/pdf/2106.01629.pdf) code is [released](https://github.com/valeoai/SemanticPalette).
 * **NEWS** 06/2021: The [preprint](https://arxiv.org/pdf/2106.01629.pdf) and [video](https://www.youtube.com/watch?v=ejkbaJD4Emk) of Semantic Palette are available.
 * **NEWS** 05/2021: Our work in confidence esimation and its use in improving domain adaptation is accepted to T-PAMI. Updated [paper](https://arxiv.org/abs/2012.06508) is coming soon.
