@@ -10,8 +10,8 @@ redirect_from:
 I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France (2018-now). I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I obtained an engineering degree from [Télécom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and a parallel “Master 2” degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2014. My research interests include deep learning, scene understanding, domain adaptation and data augmentation.
 
 ## UPDATES
-* **NEWS** 08/2021: Our paper on boundless unsupervised domain adaptation is accepted to CVIU. Final (version)[https://arxiv.org/abs/2004.01130] is coming soon.
-* **NEWS** 07/2021: One (paper)[https://arxiv.org/abs/2108.06962] about multi-target domain adaptation is accepted to ICCV'2021
+* **NEWS** 08/2021: Our paper on boundless unsupervised domain adaptation is accepted to CVIU. Final [version](https://arxiv.org/abs/2004.01130) is coming soon.
+* **NEWS** 07/2021: One [paper](https://arxiv.org/abs/2108.06962) about multi-target domain adaptation is accepted to ICCV'2021
 * **NEWS** 07/2021: The [Semantic Palette](https://arxiv.org/pdf/2106.01629.pdf) code is [released](https://github.com/valeoai/SemanticPalette).
 * **NEWS** 06/2021: The [preprint](https://arxiv.org/pdf/2106.01629.pdf) and [video](https://www.youtube.com/watch?v=ejkbaJD4Emk) of Semantic Palette are available.
 * **NEWS** 05/2021: Our work in confidence esimation and its use in improving domain adaptation is accepted to T-PAMI. Updated [paper](https://arxiv.org/abs/2012.06508) is coming soon.
