@@ -10,6 +10,14 @@ redirect_from:
 
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
+[Multi-Target Adversarial Frameworks for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2108.06962)  
+Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
+*ICCV 2021*
+
+[Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
+Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
+*CVIU 2021* [[code](https://github.com/valeoai/BUDA)]
+
 [Semantic Palette: Guiding Scene Generation with Class Proportions](https://arxiv.org/pdf/2106.01629.pdf)  
 Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez  
 *CVPR 2021* [[demo](https://www.youtube.com/watch?v=ejkbaJD4Emk) [code]()]
@@ -21,10 +29,6 @@ Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, 
 [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253)  
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez  
 *Under review at TPAMI*
-
-[Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
-Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
-*Under review at CVIU* [[code](https://github.com/valeoai/BUDA)]
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/1911.12676)
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez  
