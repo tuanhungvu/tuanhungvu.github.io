@@ -10,11 +10,11 @@ redirect_from:
 
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
-[Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation]()  
+[Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2204.11667)  
 Antoine Saporta, Arthur Douillard, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
 *CVPR 2022 Workshop on Continual Learning in Computer Vision*
 
-[CSG0: Continual Urban Scene Generation with Zero Forgetting]()  
+[CSG0: Continual Urban Scene Generation with Zero Forgetting](https://arxiv.org/abs/2112.03252)
 Himalaya Jain, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez   
 *CVPR 2022 Workshop on Continual Learning in Computer Vision*  
 
