@@ -14,7 +14,7 @@ I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), Fra
 * **NEWS** 01/2022: Our paper "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation" is accepted to T-PAMI.
 
 * 11/2021: The [CSG0](https://arxiv.org/abs/2112.03252) preprint of "CSG0: Continual Urban Scene Generation with Zero Forgetting" is online.
-* 08/2021: Our paper on boundless unsupervised domain adaptation is accepted to CVIU. Final [version](https://arxiv.org/abs/2004.01130) is coming soon.
+* 08/2021: Our [paper](https://arxiv.org/abs/2004.01130) on boundless unsupervised domain adaptation is accepted to CVIU.
 * 07/2021: One [paper](https://arxiv.org/abs/2108.06962) about multi-target domain adaptation is accepted to ICCV'2021
 * 07/2021: The [Semantic Palette](https://arxiv.org/pdf/2106.01629.pdf) code is [released](https://github.com/valeoai/SemanticPalette).
 * 06/2021: The [preprint](https://arxiv.org/pdf/2106.01629.pdf) and [video](https://www.youtube.com/watch?v=ejkbaJD4Emk) of Semantic Palette are available.
@@ -27,7 +27,7 @@ I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), Fra
 
 * 06/2020: The [xMUDA](https://arxiv.org/abs/1911.12676) code is [released](https://github.com/valeoai/xmuda).
 * 05/2020: Our paper [ESL](https://arxiv.org/abs/2006.08658) of using entropy-guided pseudo-labels in UDA is accepted to CVPR 2020 Workshop on [Scalability in Autonomous Driving](https://sites.google.com/view/cvpr20-scalability/posters?authuser=0).
-* 04/2020: The [BUDA](https://arxiv.org/abs/2004.01130) preprint of boundless unsupervised domain adaptation is online. Code is coming soon [here](https://github.com/valeoai/BUDA).
+* 04/2020: The [BUDA](https://arxiv.org/abs/2004.01130) preprint of boundless unsupervised domain adaptation is online.
 * 02/2020: Our paper [xMUDA](http://arxiv.org/abs/1911.12676) of cross 2D-3D unsupervised domain adaptation is accepted to CVPR'20.
 * 01/2020: [Demo at CES](https://www.valeo.com/en/valeo-innovations-at-the-epicenter-of-transformation-in-mobility/), Las Vegas, on pedestrian behavior understanding and forecasting. Press [1](https://www.rtl.fr/actu/futur/ces-2020-la-voiture-autonome-valeo-veut-predire-les-intentions-des-pietons-7799840637), [2](https://bfmbusiness.bfmtv.com/mediaplayer/video/culture-geek-les-voitures-du-futur-sont-au-consumer-electronics-show-0801-1213277.html), [3](https://www.motortrend.com/news/autonomous-car-innovations/), ...
 

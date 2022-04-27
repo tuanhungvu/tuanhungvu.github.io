@@ -28,7 +28,7 @@ Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez
 
 [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
 Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
-*CVIU 2021* [[code](https://github.com/valeoai/BUDA)]
+*CVIU 2021*
 
 [Semantic Palette: Guiding Scene Generation with Class Proportions](https://arxiv.org/pdf/2106.01629.pdf)  
 Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez  
