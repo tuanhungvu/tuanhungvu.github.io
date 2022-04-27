@@ -10,7 +10,8 @@ redirect_from:
 I am a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France (2018-now). I received my PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). I obtained an engineering degree from [Télécom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and a parallel “Master 2” degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2014. My research interests include deep learning, scene understanding, domain adaptation and data augmentation.
 
 ## UPDATES
-* **NEWS** 01/2021: Our paper "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation" is accepted to T-PAMI.
+* **NEWS** 04/2022: Our two papers "CSG0: Continual Urban Scene Generation with Zero Forgetting" and "Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation" are accepted to CVPR'20 CLVISION Workshop.
+* **NEWS** 01/2022: Our paper "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation" is accepted to T-PAMI.
 
 * 11/2021: The [CSG0](https://arxiv.org/abs/2112.03252) preprint of "CSG0: Continual Urban Scene Generation with Zero Forgetting" is online.
 * 08/2021: Our paper on boundless unsupervised domain adaptation is accepted to CVIU. Final [version](https://arxiv.org/abs/2004.01130) is coming soon.
