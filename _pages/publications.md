@@ -14,9 +14,9 @@ redirect_from:
 Antoine Saporta, Arthur Douillard, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
 *CVPR 2022 Workshop on Continual Learning in Computer Vision*
 
-[CSG0: Continual Urban Scene Generation with Zero Forgetting]()
-Himalaya Jain, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez 
-*CVPR 2022 Workshop on Continual Learning in Computer Vision*
+[CSG0: Continual Urban Scene Generation with Zero Forgetting]()  
+Himalaya Jain, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez   
+*CVPR 2022 Workshop on Continual Learning in Computer Vision*  
 
 [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253)  
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez  
