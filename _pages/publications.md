@@ -10,17 +10,17 @@ redirect_from:
 
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
+[Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253)  
+Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez  
+*T-PAMI 2022*
+
 [Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2204.11667)  
 Antoine Saporta, Arthur Douillard, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
 *CVPR 2022 Workshop on Continual Learning in Computer Vision*
 
 [CSG0: Continual Urban Scene Generation with Zero Forgetting](https://arxiv.org/abs/2112.03252)
-Himalaya Jain, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez   
+Himalaya Jain (*), Tuan-Hung Vu (*), Matthieu Cord, Patrick Pérez (* equal contrib.)
 *CVPR 2022 Workshop on Continual Learning in Computer Vision*  
-
-[Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253)  
-Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez  
-*TPAMI 2022*
 
 [Multi-Target Adversarial Frameworks for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2108.06962)  
 Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
@@ -36,7 +36,7 @@ Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez
 
 [Confidence Estimation via Auxiliary Models](https://arxiv.org/abs/2012.06508)  
 Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
-*TPAMI 2021*
+*T-PAMI 2021*
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/1911.12676)
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez  
