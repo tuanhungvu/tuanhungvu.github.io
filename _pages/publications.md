@@ -10,16 +10,24 @@ redirect_from:
 
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
-[Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253)  
+[SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation](https://arxiv.org/abs/2304.03251)   
+Björn Michele, Alexandre Boulch, Gilles Puy, Tuan-Hung Vu, Renaud Marlet, Nicolas Courty   
+*Arxiv 2023* [[code](https://github.com/valeoai/SALUDA)]
+
+[PØDA: Prompt-driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2101.07253)  
+Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette     
+*Arxiv 2022* [[page](https://astra-vision.github.io/PODA/) [demo](https://www.youtube.com/watch?v=kataxQoPuSE) [code](https://github.com/astra-vision/PODA)] 
+
+[Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2212.03241)  
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez  
-*T-PAMI 2022*
+*T-PAMI 2022*  [[code](https://github.com/valeoai/xmuda_journal)] 
 
 [Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2204.11667)  
 Antoine Saporta, Arthur Douillard, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez  
 *CVPR 2022 Workshop on Continual Learning in Computer Vision*
 
-[CSG0: Continual Urban Scene Generation with Zero Forgetting](https://arxiv.org/abs/2112.03252)
-Himalaya Jain (*), Tuan-Hung Vu (*), Matthieu Cord, Patrick Pérez (* equal contrib.)
+[CSG0: Continual Urban Scene Generation with Zero Forgetting](https://arxiv.org/abs/2112.03252)   
+Himalaya Jain*, Tuan-Hung Vu*, Matthieu Cord, Patrick Pérez (* equal contrib.)   
 *CVPR 2022 Workshop on Continual Learning in Computer Vision*  
 
 [Multi-Target Adversarial Frameworks for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2108.06962)  

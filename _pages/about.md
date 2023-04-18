@@ -10,13 +10,19 @@ redirect_from:
 Tuan-Hung Vu is a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/), France (2018-now). He received his PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). Tuan-Hung obtained an engineering degree from [Télécom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and a parallel “Master 2” degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2014. His research interests include deep learning, scene understanding, domain adaptation and data augmentation.
 
 ## UPDATES
-* **NEWS** 11/2022: Top reviewer NeuRIPS'22
-* **NEWS** 09/2022: The code of DenseMTL is [released](https://github.com/cv-rits/DenseMTL).
-* **NEWS** 08/2022: One accepted WACV [paper](https://arxiv.org/abs/2206.08927).
-* **NEWS** 06/2022: Our recent [work](https://arxiv.org/abs/2206.08927) on "Cross-task Attention Mechanism for Dense Multi-task Learning" is online. [Code](https://github.com/cv-rits/DenseMTL) is comming soon.
-* **NEWS** 05/2022: We’re organizing a [workshop on Weakly Supervised Computer Vision](https://wscv-indaba.github.io/) at the Deep Learning Indaba 2022.
-* **NEWS** 04/2022: Our two papers "CSG0: Continual Urban Scene Generation with Zero Forgetting" and "Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation" are accepted to CVPR'20 CLVISION Workshop.
-* **NEWS** 01/2022: Our paper "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation" is accepted to T-PAMI.
+* **NEWS** 04/2023: “BRAVO: Robustness and Reliability of Autonomous Vehicles in the Open-world” accepted as ICCV’23 workshop.
+
+* **NEWS** 04/2023: Our recent work [SALUDA](https://arxiv.org/abs/2304.03251) on point-cloud domain adaptation is online. Inference [code](https://github.com/valeoai/SALUDA) is released.
+
+* **NEWS** 12/2022: Our recent work [PODA](https://arxiv.org/abs/2304.03251) on prompt-driven zero-shot domain adaptation is online. [Code](https://github.com/astra-vision/PODA) is released.
+
+* 11/2022: Top reviewer NeuRIPS'22
+* 09/2022: The code of DenseMTL is [released](https://github.com/cv-rits/DenseMTL).
+* 08/2022: One accepted WACV [paper](https://arxiv.org/abs/2206.08927).
+* 06/2022: Our recent [work](https://arxiv.org/abs/2206.08927) on "Cross-task Attention Mechanism for Dense Multi-task Learning" is online. [Code](https://github.com/cv-rits/DenseMTL) is comming soon.
+* 05/2022: We’re organizing a [workshop on Weakly Supervised Computer Vision](https://wscv-indaba.github.io/) at the Deep Learning Indaba 2022.
+* 04/2022: Our two papers "CSG0: Continual Urban Scene Generation with Zero Forgetting" and "Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation" are accepted to CVPR'20 CLVISION Workshop.
+* 01/2022: Our paper "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation" is accepted to T-PAMI.
 
 * 11/2021: The [CSG0](https://arxiv.org/abs/2112.03252) preprint of "CSG0: Continual Urban Scene Generation with Zero Forgetting" is online.
 * 08/2021: Our [paper](https://arxiv.org/abs/2004.01130) on boundless unsupervised domain adaptation is accepted to CVIU.
