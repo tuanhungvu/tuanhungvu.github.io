@@ -19,7 +19,7 @@ Tuan-Hung Vu is a research scientist at [valeo.ai](https://www.valeo.com/en/vale
 * 11/2022: Top reviewer NeuRIPS'22
 * 09/2022: The code of DenseMTL is [released](https://github.com/cv-rits/DenseMTL).
 * 08/2022: One accepted WACV [paper](https://arxiv.org/abs/2206.08927).
-* 06/2022: Our recent [work](https://arxiv.org/abs/2206.08927) on "Cross-task Attention Mechanism for Dense Multi-task Learning" is online. [Code](https://github.com/cv-rits/DenseMTL) is comming soon.
+* 06/2022: Our recent [work](https://arxiv.org/abs/2206.08927) on "Cross-task Attention Mechanism for Dense Multi-task Learning" is online. [Code](https://github.com/cv-rits/DenseMTL) is released.
 * 05/2022: We’re organizing a [workshop on Weakly Supervised Computer Vision](https://wscv-indaba.github.io/) at the Deep Learning Indaba 2022.
 * 04/2022: Our two papers "CSG0: Continual Urban Scene Generation with Zero Forgetting" and "Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation" are accepted to CVPR'20 CLVISION Workshop.
 * 01/2022: Our paper "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation" is accepted to T-PAMI.

@@ -18,6 +18,10 @@ Björn Michele, Alexandre Boulch, Gilles Puy, Tuan-Hung Vu, Renaud Marlet, Nicol
 Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette     
 *Arxiv 2022* [[page](https://astra-vision.github.io/PODA/) [demo](https://www.youtube.com/watch?v=kataxQoPuSE) [code](https://github.com/astra-vision/PODA)] 
 
+[Cross-task Attention Mechanism for Dense Multi-task Learning](https://arxiv.org/abs/2206.08927)  
+Ivan Lopes, Tuan-Hung Vu, Raoul de Charette      
+*WACV 2023* [[code](https://github.com/astra-vision/DenseMTL)]  
+
 [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2212.03241)  
 Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, and Patrick Pérez  
 *T-PAMI 2022*  [[code](https://github.com/valeoai/xmuda_journal)] 
