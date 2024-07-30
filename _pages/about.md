@@ -10,16 +10,17 @@ redirect_from:
 Tuan-Hung Vu is a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/) (valeo, 2018-now) and the computer vision group Astra-vision (INRIA Paris, 2022-now). He received his PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). Tuan-Hung obtained an engineering degree from [Télécom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and a parallel “Master 2” degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2014. His research interests include deep learning, scene understanding, domain adaptation and data augmentation.
 
 ## UPDATES
-* **NEWS** 07/2023: The [PODA](https://arxiv.org/abs/2304.03251) paper on prompt-driven zero-shot domain adaptation is accepted to ICCV'23. [Code](https://github.com/astra-vision/PODA) is released.
 
-* **NEWS** 06/2023: Submission is open for the BRAVO workshop. Deadline is 19/07/2023.
+* **NEW** 07/2024: The [GenVal](https://arxiv.org/abs/2312.09231) paper on synthetic evaluation in semantic segmentation is accepted to ECCV'24. [Code](https://github.com/valeoai/GenVal)
+* **NEW** 07/2024: The [TTYD](https://arxiv.org/abs/2304.03251) paper on robust source-free domain adaptation is accepted to ECCV'24. [Code](https://github.com/valeoai/TTYD)
+* **NEW** 02/2024: The [FAMix](https://github.com/astra-vision/FAMix) paper on domain generalized semantic segmentation is accepted to CVPR'24. [Code](https://github.com/astra-vision/FAMix)
 
-* **NEWS** 04/2023: “BRAVO: Robustness and Reliability of Autonomous Vehicles in the Open-world” accepted as ICCV’23 workshop.
-
-* **NEWS** 04/2023: Our recent work [SALUDA](https://arxiv.org/abs/2304.03251) on point-cloud domain adaptation is online. Inference [code](https://github.com/valeoai/SALUDA) is released.
-
-* **NEWS** 12/2022: Our recent work [PODA](https://arxiv.org/abs/2304.03251) on prompt-driven zero-shot domain adaptation is online. [Code](https://github.com/astra-vision/PODA) is released.
-
+* 10/2023: The [SALUDA](https://arxiv.org/abs/2304.03251) paper on point-cloud domain adaptation is accepted to 3DV'24. [Code](https://github.com/valeoai/SALUDA)
+* 07/2023: The [PODA](https://arxiv.org/abs/2304.03251) paper on prompt-driven zero-shot domain adaptation is accepted to ICCV'23. [Code](https://github.com/astra-vision/PODA) is released.
+* 06/2023: Submission is open for the BRAVO workshop. Deadline is 19/07/2023.
+* 04/2023: “BRAVO: Robustness and Reliability of Autonomous Vehicles in the Open-world” accepted as ICCV’23 workshop.
+* 04/2023: Our recent work [SALUDA](https://arxiv.org/abs/2304.03251) on point-cloud domain adaptation is online. Inference [code](https://github.com/valeoai/SALUDA) is released.
+* 12/2022: Our recent work [PODA](https://arxiv.org/abs/2304.03251) on prompt-driven zero-shot domain adaptation is online. [Code](https://github.com/astra-vision/PODA) is released.
 * 11/2022: Top reviewer NeuRIPS'22
 * 09/2022: The code of DenseMTL is [released](https://github.com/cv-rits/DenseMTL).
 * 08/2022: One accepted WACV [paper](https://arxiv.org/abs/2206.08927).
