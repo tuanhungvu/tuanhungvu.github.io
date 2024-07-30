@@ -11,16 +11,16 @@ redirect_from:
 ## You can also find my articles on [Scholar](https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en)
 
 [Reliability in Semantic Segmentation: Can We Use Synthetic Data?](https://arxiv.org/abs/2312.09231)
-Thibaut Loiseau, Tuan-Hung Vu, Mickael Chen, Patrick Pérez, Matthieu Cord
+Thibaut Loiseau, Tuan-Hung Vu, Mickael Chen, Patrick Pérez, Matthieu Cord 
 *ECCV 2024* [[page](https://valeoai.github.io/blog/publications/GenVal) [code & data](https://github.com/valeoai/GenVal)] 
 
 [Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation](https://arxiv.org/abs/2304.03251)   
-Björn Michele, Alexandre Boulch, Tuan-Hung Vu, Gilles Puy, Renaud Marlet, Nicolas Courty  
+Björn Michele, Alexandre Boulch, Tuan-Hung Vu, Gilles Puy, Renaud Marlet, Nicolas Courty   
 *ECCV 2024* [[code](https://github.com/valeoai/TTYD)]
 
 [FAMix: A Simple Recipe for Language-guided Domain Generalized Segmentation](https://arxiv.org/abs/2311.17922)  
 Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette     
-*ICCV 2023* [[page](https://astra-vision.github.io/FAMix/) [demo](https://www.youtube.com/watch?v=vyjtvx2El9Q) [code](https://github.com/astra-vision/FAMix)] 
+*CVPR 2024* [[page](https://astra-vision.github.io/FAMix/) [demo](https://www.youtube.com/watch?v=vyjtvx2El9Q) [code](https://github.com/astra-vision/FAMix)] 
 
 [PØDA: Prompt-driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2101.07253)  
 Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette     
