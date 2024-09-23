@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Tuan-Hung Vu is a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/) (valeo, 2018-now) and the computer vision group Astra-vision (INRIA Paris, 2022-now). He received his PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). Tuan-Hung obtained an engineering degree from [Télécom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and a parallel “Master 2” degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2014. His research interests include deep learning, scene understanding, domain adaptation and data augmentation.
+Tuan-Hung Vu is a Senior Research Scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/) (R&D Technical Manager, Valeo expert), and a part-time Researcher in the Computer Vision group [Astra-vision](https://astra-vision.github.io/) at INRIA Paris. He received his PhD from [École Normale Supérieure](http://www.ens.fr/en), under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev). Tuan-Hung obtained an engineering degree from [Télécom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and a parallel “Master 2” degree in Mathematics, Machine Learning and Computer Vision ([MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)) from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2014. His research interests include deep learning, scene understanding, domain adaptation and data augmentation.
 
 ## UPDATES
 
 * **NEW** 07/2024: The [GenVal](https://arxiv.org/abs/2312.09231) paper on synthetic evaluation in semantic segmentation is accepted to ECCV'24. [Code](https://github.com/valeoai/GenVal)
-* **NEW** 07/2024: The [TTYD](https://arxiv.org/abs/2304.03251) paper on robust source-free domain adaptation is accepted to ECCV'24. [Code](https://github.com/valeoai/TTYD)
+* **NEW** 07/2024: The [TTYD](https://arxiv.org/abs/2409.04409) paper on robust source-free domain adaptation is accepted to ECCV'24. [Code](https://github.com/valeoai/TTYD)
 * **NEW** 02/2024: The [FAMix](https://github.com/astra-vision/FAMix) paper on domain generalized semantic segmentation is accepted to CVPR'24. [Code](https://github.com/astra-vision/FAMix)
 
 * 10/2023: The [SALUDA](https://arxiv.org/abs/2304.03251) paper on point-cloud domain adaptation is accepted to 3DV'24. [Code](https://github.com/valeoai/SALUDA)
