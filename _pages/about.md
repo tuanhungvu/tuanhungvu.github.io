@@ -11,6 +11,7 @@ Tuan-Hung Vu is a Senior Research Scientist at [valeo.ai](https://www.valeo.com/
 
 ## UPDATES
 
+* **NEW** 10/2024: The [ProLIP](https://arxiv.org/abs/2410.05270) preprint on few-shot learning with CLIP is online. [Code](https://github.com/astra-vision/ProLIP)
 * **NEW** 07/2024: The [GenVal](https://arxiv.org/abs/2312.09231) paper on synthetic evaluation in semantic segmentation is accepted to ECCV'24. [Code](https://github.com/valeoai/GenVal)
 * **NEW** 07/2024: The [TTYD](https://arxiv.org/abs/2409.04409) paper on robust source-free domain adaptation is accepted to ECCV'24. [Code](https://github.com/valeoai/TTYD)
 * **NEW** 02/2024: The [FAMix](https://github.com/astra-vision/FAMix) paper on domain generalized semantic segmentation is accepted to CVPR'24. [Code](https://github.com/astra-vision/FAMix)
