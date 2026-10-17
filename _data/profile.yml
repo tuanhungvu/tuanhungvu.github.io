@@ -1,0 +1,61 @@
+name: "Tuan-Hung Vu"
+photo: /images/ava.jpg
+positions:
+  - role: "Senior Research Scientist"
+    org: "valeo.ai"
+    url: https://www.valeo.com/en/valeo-ai/
+  - role: "Part-time Researcher, Astra-vision"
+    org: "Inria Paris"
+    url: https://astra-vision.github.io/
+location: "Paris, France"
+email: "tuanhungvu [at] gmail [dot] com"
+
+links:
+  - label: "Google Scholar"
+    icon: "fa-brands fa-google-scholar"
+    url: https://scholar.google.com/citations?user=QIHrPZQAAAAJ&hl=en
+  - label: "GitHub"
+    icon: "fa-brands fa-github"
+    url: https://github.com/tuanhungvu
+  - label: "LinkedIn"
+    icon: "fa-brands fa-linkedin"
+    url: https://www.linkedin.com/in/tuanhungvu/
+  - label: "X / Twitter"
+    icon: "fa-brands fa-x-twitter"
+    url: https://x.com/tuan_hung_vu
+  - label: "CV"
+    icon: "fa-solid fa-file-lines"
+    url: https://www.linkedin.com/in/tuanhungvu/
+
+interests:
+  - Scene understanding
+  - Domain adaptation & generalization
+  - Vision-language models
+  - 3D perception
+  - Generative models for driving
+
+education:
+  - degree: "PhD in Computer Vision"
+    org: "École Normale Supérieure"
+    note: "Advisor: Ivan Laptev"
+    year: "2018"
+  - degree: "Master 2 MVA — Mathematics, Machine Learning & Computer Vision"
+    org: "École Normale Supérieure Paris-Saclay"
+    year: "2014"
+  - degree: "Engineering degree"
+    org: "Télécom Paris"
+    year: "2014"
+
+organization:
+  - text: "BRAVO Semantic Segmentation Challenge @ UNCV, ECCV 2024"
+    url: https://benchmarks.elsa-ai.eu/?ch=1&com=introduction
+  - text: "BRAVO Workshop: Robustness and Reliability of Autonomous Vehicles in the Open-world, ICCV 2023"
+  - text: "Workshop on Weakly Supervised Computer Vision, Deep Learning Indaba 2022"
+    url: https://wscv-indaba.github.io/
+
+reviewing:
+  - label: "Conferences"
+    text: "CVPR, ICCV, ECCV (2018–) · ICLR, NeurIPS (2021–) · AAAI · ICRA · IROS"
+  - label: "Journals"
+    text: "IJCV · T-PAMI · CVIU"
+

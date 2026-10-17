@@ -1,0 +1,346 @@
+# Publications, newest first.
+# Fields: title, image (480x300 teaser), authors, venue, year, selected (shown under "Selected"),
+# note (e.g. Oral, Spotlight), links (paper, page, code, video, data).
+
+- title: "Vanilla ViT for Automotive Point Cloud Semantic Segmentation"
+  image: /images/pubs/vanilla-vit.jpg
+  authors: "Gilles Puy, Nermin Samet, Alexandre Boulch, Spyros Gidaris, Tuan-Hung Vu, Renaud Marlet"
+  venue: "WACV"
+  year: 2027
+  links:
+    paper: https://arxiv.org/abs/2605.31177
+
+- title: "How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models"
+  image: /images/pubs/scaling-law.jpg
+  authors: "Victor Besnier, Anh-Quan Cao, Elias Ramzi, Spyros Gidaris, Tuan-Hung Vu, Andrei Bursuc, Eloi Zablocki, Matthieu Cord"
+  venue: "ECCV 2026 Workshops (DriveX)"
+  year: 2026
+  note: "Oral · Runner-up Best Paper Award"
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2608.28404
+
+- title: "NewtPhys: Do Foundation Models Understand Newtonian Physics?"
+  image: /images/pubs/newtphys.jpg
+  authors: "Sebastian Cavada, Soumava Paul, Tuan-Hung Vu, Andrei Bursuc, Raoul de Charette"
+  venue: "arxiv preprint"
+  year: 2026
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2606.03986
+
+- title: "OccAny: Generalized Unconstrained Urban 3D Occupancy"
+  image: /images/pubs/occany.jpg
+  authors: "Anh-Quan Cao, Tuan-Hung Vu"
+  venue: "CVPR 2026"
+  year: 2026
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2603.23502
+    page: https://valeoai.github.io/OccAny/
+
+- title: "Driving on Registers"
+  image: /images/pubs/drivor.jpg
+  authors: "Ellington Kirby, Alexandre Boulch, Yihong Xu, Yuan Yin, Gilles Puy, Éloi Zablocki, Andrei Bursuc, Spyros Gidaris, Renaud Marlet, Florent Bartoccioni, Anh-Quan Cao, Nermin Samet, Tuan-Hung Vu, Matthieu Cord"
+  venue: "CVPR 2026"
+  year: 2026
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2601.05083
+
+- title: "Domain Adaptation with a Single Vision-Language Embedding"
+  image: /images/pubs/single-vl-embedding.jpg
+  authors: "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette"
+  venue: "IJCV 2026"
+  year: 2026
+  links:
+    paper: https://arxiv.org/abs/2410.21361
+
+- title: "CLIP's Visual Embedding Projector is a Few-shot Cornucopia"
+  image: /images/pubs/prolip.jpg
+  authors: "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette"
+  venue: "WACV 2026"
+  year: 2026
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2410.05270
+    code: https://github.com/astra-vision/ProLIP
+
+- title: "PPT: Pretraining with Pseudo-Labeled Trajectories for Motion Forecasting"
+  image: /images/pubs/ppt.jpg
+  authors: "Yihong Xu, Yuan Yin, Éloi Zablocki, Tuan-Hung Vu, Alexandre Boulch, Matthieu Cord"
+  venue: "ICRA 2026"
+  year: 2026
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2412.06491
+
+- title: "Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift"
+  image: /images/pubs/mm-distillation.jpg
+  authors: "Björn Michele, Alexandre Boulch, Gilles Puy, Tuan-Hung Vu, Renaud Marlet, Nicolas Courty"
+  venue: "BMVC 2025"
+  year: 2025
+  links:
+    paper: https://arxiv.org/abs/2511.17455
+
+- title: "IPA: An Information-Reconstructive Input Projection Framework for Efficient Foundation Model Adaptation"
+  image: /images/pubs/ipa.jpg
+  authors: "Yuan Yin, Shashanka Venkataramanan, Tuan-Hung Vu, Andrei Bursuc, Matthieu Cord"
+  venue: "TMLR"
+  year: 2025
+  links:
+    paper: https://arxiv.org/abs/2509.04398
+
+- title: "FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation"
+  image: /images/pubs/floss.jpg
+  authors: "Yasser Benigmim, Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Raoul de Charette"
+  venue: "ICCV 2025"
+  year: 2025
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2504.10487
+    page: https://yasserben.github.io/FLOSS/
+
+- title: "VaViM and VaVAM: Autonomous Driving through Video Generative Modeling"
+  image: /images/pubs/vavim.jpg
+  authors: "Florent Bartoccioni, Elias Ramzi, Victor Besnier, Shashanka Venkataramanan, Tuan-Hung Vu, Yihong Xu, Loick Chambon, Spyros Gidaris, Serkan Odabas, David Hurych, Renaud Marlet, Alexandre Boulch, Mickael Chen, Éloi Zablocki, Andrei Bursuc, Eduardo Valle, Matthieu Cord"
+  venue: "arXiv preprint"
+  year: 2025
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2502.15672
+    page: https://valeoai.github.io/vavim-vavam/
+    code: https://github.com/valeoai/VideoActionModel
+
+- title: "Reliability in Semantic Segmentation: Can We Use Synthetic Data?"
+  image: /images/pubs/genval.jpg
+  authors: "Thibaut Loiseau, Tuan-Hung Vu, Mickael Chen, Patrick Pérez, Matthieu Cord"
+  venue: "ECCV 2024"
+  year: 2024
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2312.09231
+    page: https://valeoai.github.io/blog/publications/GenVal
+    code: https://github.com/valeoai/GenVal
+
+- title: "Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation"
+  image: /images/pubs/ttyd.jpg
+  authors: "Björn Michele, Alexandre Boulch, Tuan-Hung Vu, Gilles Puy, Renaud Marlet, Nicolas Courty"
+  venue: "ECCV 2024"
+  year: 2024
+  links:
+    paper: https://arxiv.org/abs/2409.04409
+    code: https://github.com/valeoai/TTYD
+
+- title: "The BRAVO Semantic Segmentation Challenge Results in UNCV2024"
+  image: /images/pubs/bravo.jpg
+  authors: "Tuan-Hung Vu, Eduardo Valle, Andrei Bursuc, Tommie Kerssies, Daan de Geus, Gijs Dubbelman, Long Qian, Bingke Zhu, Yingying Chen, Ming Tang, Jinqiao Wang, Tomáš Vojíř, Jan Šochman, Jiří Matas, Michael Smith, Frank Ferrie, Shamik Basu, Christos Sakaridis, Luc Van Gool"
+  venue: "ECCV 2024 Workshops (UNCV)"
+  year: 2024
+  links:
+    paper: https://arxiv.org/abs/2409.15107
+    page: https://benchmarks.elsa-ai.eu/?ch=1&com=introduction
+
+- title: "Valeo4Cast: A Modular Approach to End-to-End Forecasting"
+  image: /images/pubs/valeo4cast.jpg
+  authors: "Yihong Xu, Éloi Zablocki, Alexandre Boulch, Gilles Puy, Mickael Chen, Florent Bartoccioni, Nermin Samet, Oriane Siméoni, Spyros Gidaris, Tuan-Hung Vu, Andrei Bursuc, Eduardo Valle, Renaud Marlet, Matthieu Cord"
+  venue: "ECCV 2024 Workshops (Road++)"
+  year: 2024
+  note: "Argoverse 2 challenge winner"
+  links:
+    paper: https://arxiv.org/abs/2406.08113
+
+- title: "A Simple Recipe for Language-guided Domain Generalized Segmentation"
+  image: /images/pubs/famix.jpg
+  authors: "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette"
+  venue: "CVPR 2024"
+  year: 2024
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2311.17922
+    page: https://astra-vision.github.io/FAMix/
+    video: https://www.youtube.com/watch?v=vyjtvx2El9Q
+    code: https://github.com/astra-vision/FAMix
+
+- title: "SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation"
+  image: /images/pubs/saluda.jpg
+  authors: "Björn Michele, Alexandre Boulch, Gilles Puy, Tuan-Hung Vu, Renaud Marlet, Nicolas Courty"
+  venue: "3DV 2024"
+  year: 2024
+  note: "Spotlight"
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2304.03251
+    code: https://github.com/valeoai/SALUDA
+
+- title: "PØDA: Prompt-driven Zero-shot Domain Adaptation"
+  image: /images/pubs/poda.jpg
+  authors: "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette"
+  venue: "ICCV 2023"
+  year: 2023
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2212.03241
+    page: https://astra-vision.github.io/PODA/
+    video: https://www.youtube.com/watch?v=kataxQoPuSE
+    code: https://github.com/astra-vision/PODA
+
+- title: "DenseMTL: Cross-task Attention Mechanism for Dense Multi-task Learning"
+  image: /images/pubs/densemtl.jpg
+  authors: "Ivan Lopes, Tuan-Hung Vu, Raoul de Charette"
+  venue: "WACV 2023"
+  year: 2023
+  links:
+    paper: https://arxiv.org/abs/2206.08927
+    code: https://github.com/astra-vision/DenseMTL
+
+- title: "Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation"
+  image: /images/pubs/xmuda-journal.jpg
+  authors: "Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez"
+  venue: "T-PAMI 2022"
+  year: 2022
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/2101.07253
+    code: https://github.com/valeoai/xmuda_journal
+
+- title: "Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation"
+  image: /images/pubs/muhdi.jpg
+  authors: "Antoine Saporta, Arthur Douillard, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez"
+  venue: "CVPR 2022 Workshops (CLVision)"
+  year: 2022
+  links:
+    paper: https://arxiv.org/abs/2204.11667
+
+- title: "CSG0: Continual Urban Scene Generation with Zero Forgetting"
+  image: /images/pubs/csg0.jpg
+  authors: "Himalaya Jain*, Tuan-Hung Vu*, Matthieu Cord, Patrick Pérez"
+  venue: "CVPR 2022 Workshops (CLVision)"
+  year: 2022
+  note: "* equal contribution"
+  links:
+    paper: https://arxiv.org/abs/2112.03252
+
+- title: "Multi-Target Adversarial Frameworks for Domain Adaptation in Semantic Segmentation"
+  image: /images/pubs/mtaf.jpg
+  authors: "Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez"
+  venue: "ICCV 2021"
+  year: 2021
+  links:
+    paper: https://arxiv.org/abs/2108.06962
+
+- title: "Handling New Target Classes in Semantic Segmentation with Domain Adaptation"
+  image: /images/pubs/buda.jpg
+  authors: "Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez"
+  venue: "CVIU 2021"
+  year: 2021
+  links:
+    paper: https://arxiv.org/abs/2004.01130
+
+- title: "Semantic Palette: Guiding Scene Generation with Class Proportions"
+  image: /images/pubs/semantic-palette.jpg
+  authors: "Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez"
+  venue: "CVPR 2021"
+  year: 2021
+  links:
+    paper: https://arxiv.org/abs/2106.01629
+    video: https://www.youtube.com/watch?v=ejkbaJD4Emk
+    code: https://github.com/valeoai/SemanticPalette
+
+- title: "Confidence Estimation via Auxiliary Models"
+  image: /images/pubs/conda.jpg
+  authors: "Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez"
+  venue: "T-PAMI 2021"
+  year: 2021
+  links:
+    paper: https://arxiv.org/abs/2012.06508
+
+- title: "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation"
+  image: /images/pubs/xmuda.jpg
+  authors: "Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez"
+  venue: "CVPR 2020"
+  year: 2020
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/1911.12676
+    video: https://www.youtube.com/watch?v=WgvBBCEKQVE
+    code: https://github.com/valeoai/xmuda
+
+- title: "ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation"
+  image: /images/pubs/esl.jpg
+  authors: "Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez"
+  venue: "CVPR 2020 Workshops (Scalability in Autonomous Driving)"
+  year: 2020
+  links:
+    paper: https://arxiv.org/abs/2006.08658
+
+- title: "Zero-Shot Semantic Segmentation"
+  image: /images/pubs/zs3.jpg
+  authors: "Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez"
+  venue: "NeurIPS 2019"
+  year: 2019
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/1906.00817
+    code: https://github.com/valeoai/ZS3
+
+- title: "DADA: Depth-aware Domain Adaptation in Semantic Segmentation"
+  image: /images/pubs/dada.jpg
+  authors: "Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez"
+  venue: "ICCV 2019"
+  year: 2019
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/1904.01886
+    code: https://github.com/valeoai/DADA
+
+- title: "ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation"
+  image: /images/pubs/advent.jpg
+  authors: "Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez"
+  venue: "CVPR 2019"
+  year: 2019
+  note: "Oral"
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/1811.12833
+    video: https://www.youtube.com/watch?v=Ihmz0yEqrq0
+    code: https://github.com/valeoai/ADVENT
+
+- title: "Memory Warps for Learning Long-Term Online Video Representations"
+  image: /images/pubs/memnet.jpg
+  authors: "Tuan-Hung Vu, Wongun Choi, Samuel Schulter, Manmohan Chandraker"
+  venue: "WACV 2019"
+  year: 2019
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/1803.10861
+
+- title: "Tube-CNN: Modeling Temporal Evolution of Appearance for Object Detection in Video"
+  image: /images/pubs/tube-cnn.jpg
+  authors: "Tuan-Hung Vu, Anton Osokin, Ivan Laptev"
+  venue: "Technical report"
+  year: 2018
+  links:
+    paper: https://arxiv.org/abs/1812.02619
+
+- title: "Context-aware CNNs for Person Head Detection"
+  image: /images/pubs/head-detection.jpg
+  authors: "Tuan-Hung Vu, Anton Osokin, Ivan Laptev"
+  venue: "ICCV 2015"
+  year: 2015
+  selected: true
+  links:
+    paper: https://arxiv.org/abs/1511.07917
+    page: https://www.di.ens.fr/willow/research/headdetection/
+    video: https://www.youtube.com/watch?v=1hskQb_ZKCo
+    code: https://github.com/aosokin/cnn_head_detection
+
+- title: "Predicting Actions from Static Scenes"
+  image: /images/pubs/actions-from-scenes.jpg
+  authors: "Tuan-Hung Vu, Catherine Olsson, Ivan Laptev, Aude Oliva, Josef Sivic"
+  venue: "ECCV 2014"
+  year: 2014
+  links:
+    paper: https://www.di.ens.fr/willow/research/actionsfromscenes/paper/eccv14_actionsfromscenes.pdf
+    page: https://www.di.ens.fr/willow/research/actionsfromscenes/
+    data: https://www.di.ens.fr/willow/research/actionsfromscenes/SUNAction.zip

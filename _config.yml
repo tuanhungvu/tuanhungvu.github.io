@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tuan-Hung VU's page"
+title                    : "Tuan-Hung Vu"
 title_separator          : "-"
 name                     : &name "Tuan-Hung VU"
-description              : &description "Senior Research Scientist at valeo.ai"
+description              : &description "Tuan-Hung Vu — Senior Research Scientist at valeo.ai and part-time researcher at Inria Paris, working on robust scene understanding, domain adaptation and vision-language models."
 url                      : https://tuanhungvu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tuanhungvu.github.io"
@@ -72,7 +72,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tuanhungvu89"
+  twitter          : "tuan_hung_vu"
   vine             :
   weibo            :
   xing             :
@@ -142,6 +142,34 @@ exclude:
   - Rakefile
   - README
   - tmp
+  # Template sample content not used by the current site
+  - _posts
+  - _drafts
+  - _portfolio
+  - _teaching
+  - _publications
+  - _talks
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/sitemap.md
+  - _pages/talkmap.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/tag-archive.html
+  - _pages/year-archive.html
 keep_files:
   - .git
   - .svn
