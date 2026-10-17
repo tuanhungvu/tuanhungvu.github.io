@@ -40,7 +40,7 @@
     buttons.forEach(function (b) {
       b.addEventListener("click", function () { setMode(b.getAttribute("data-filter")); });
     });
-    setMode("selected");
+    setMode("all");
   }
 
   // Highlight the nav link of the section in view.
