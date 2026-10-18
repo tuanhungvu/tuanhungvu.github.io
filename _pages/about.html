@@ -100,7 +100,11 @@ My research focuses on deep learning for scene understanding, with an emphasis o
               {%- if pub.links.code %}
               {%- assign repo = pub.links.code | remove: "https://github.com/" %}
               {%- assign n_stars = site.data.github_stars[repo] %}
-              <a href="{{ pub.links.code }}"><i class="fa-brands fa-github" aria-hidden="true"></i> Code{% if n_stars %}<span class="stars" aria-label="{{ n_stars }} GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>{{ n_stars }}</span>{% endif %}</a>
+              {%- if n_stars %}
+              <a class="has-stars" href="{{ pub.links.code }}"><span class="has-stars__label"><i class="fa-brands fa-github" aria-hidden="true"></i> Code</span><span class="stars" aria-label="{{ n_stars }} GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>{{ n_stars }}</span></a>
+              {%- else %}
+              <a href="{{ pub.links.code }}"><i class="fa-brands fa-github" aria-hidden="true"></i> Code</a>
+              {%- endif %}
               {%- endif %}
               {%- if pub.links.video %}<a href="{{ pub.links.video }}"><i class="fa-solid fa-play" aria-hidden="true"></i> Video</a>{% endif %}
               {%- if pub.links.data %}<a href="{{ pub.links.data }}"><i class="fa-solid fa-database" aria-hidden="true"></i> Data</a>{% endif %}
