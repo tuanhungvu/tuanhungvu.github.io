@@ -316,6 +316,8 @@ img { max-width: 100%; display: block; }
 .pubs__year:last-child .pub:last-child { border-bottom: 0; }
 .pubs[data-mode="selected"] .pub:not(.is-selected),
 .pubs[data-mode="selected"] .pubs__year.is-empty { display: none; }
+.pubs[data-mode="selected"] .pubs__year { grid-template-columns: 1fr; gap: 0; margin-top: 0; }
+.pubs[data-mode="selected"] .pubs__yearlabel { display: none; }
 
 .badge {
   display: inline-block;
@@ -427,5 +429,7 @@ img { max-width: 100%; display: block; }
 @media print {
   .topbar, .segmented, .more summary, .footer { display: none; }
   .pubs[data-mode="selected"] .pub, .pubs[data-mode="selected"] .pubs__year { display: grid !important; }
+  .pubs[data-mode="selected"] .pubs__year { grid-template-columns: 76px 1fr !important; gap: 16px !important; }
+  .pubs[data-mode="selected"] .pubs__yearlabel { display: block !important; }
   .more .news { max-height: none; }
 }

@@ -69,7 +69,6 @@
   authors: "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette"
   venue: "WACV 2026"
   year: 2026
-  selected: true
   links:
     paper: https://arxiv.org/abs/2410.05270
     code: https://github.com/astra-vision/ProLIP
@@ -79,7 +78,6 @@
   authors: "Yihong Xu, Yuan Yin, Éloi Zablocki, Tuan-Hung Vu, Alexandre Boulch, Matthieu Cord"
   venue: "ICRA 2026"
   year: 2026
-  selected: true
   links:
     paper: https://arxiv.org/abs/2412.06491
 
@@ -106,7 +104,6 @@
   authors: "Yasser Benigmim, Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Raoul de Charette"
   venue: "ICCV 2025"
   year: 2025
-  selected: true
   links:
     paper: https://arxiv.org/abs/2504.10487
     page: https://yasserben.github.io/FLOSS/
@@ -170,7 +167,6 @@
   authors: "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette"
   venue: "CVPR 2024"
   year: 2024
-  selected: true
   links:
     paper: https://arxiv.org/abs/2311.17922
     page: https://astra-vision.github.io/FAMix/
@@ -183,7 +179,6 @@
   venue: "3DV 2024"
   year: 2024
   note: "Spotlight"
-  selected: true
   links:
     paper: https://arxiv.org/abs/2304.03251
     code: https://github.com/valeoai/SALUDA
@@ -214,7 +209,6 @@
   authors: "Maximilian Jaritz, Tuan-Hung Vu, Raoul de Charette, Émilie Wirbel, Patrick Pérez"
   venue: "T-PAMI 2022"
   year: 2022
-  selected: true
   links:
     paper: https://arxiv.org/abs/2101.07253
     code: https://github.com/valeoai/xmuda_journal
@@ -259,6 +253,7 @@
   authors: "Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez"
   venue: "CVPR 2021"
   year: 2021
+  selected: true
   links:
     paper: https://arxiv.org/abs/2106.01629
     video: https://www.youtube.com/watch?v=ejkbaJD4Emk
@@ -269,6 +264,7 @@
   authors: "Charles Corbière, Nicolas Thome, Antoine Saporta, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez"
   venue: "T-PAMI 2021"
   year: 2021
+  selected: true
   links:
     paper: https://arxiv.org/abs/2012.06508
 
@@ -307,7 +303,6 @@
   authors: "Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez"
   venue: "ICCV 2019"
   year: 2019
-  selected: true
   links:
     paper: https://arxiv.org/abs/1904.01886
     code: https://github.com/valeoai/DADA
@@ -329,7 +324,6 @@
   authors: "Tuan-Hung Vu, Wongun Choi, Samuel Schulter, Manmohan Chandraker"
   venue: "WACV 2019"
   year: 2019
-  selected: true
   links:
     paper: https://arxiv.org/abs/1803.10861
 
