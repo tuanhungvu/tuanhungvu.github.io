@@ -9,6 +9,7 @@
   year: 2027
   links:
     paper: https://arxiv.org/abs/2605.31177
+    code: https://github.com/valeoai/VaViT
 
 - title: "How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models"
   image: /images/pubs/scaling-law.jpg
@@ -19,6 +20,8 @@
   selected: true
   links:
     paper: https://arxiv.org/abs/2608.28404
+    page: https://valeoai.github.io/VATIX/
+    code: https://github.com/valeoai/VATIX
 
 - title: "NewtPhys: Do Foundation Models Understand Newtonian Physics?"
   image: /images/pubs/newtphys.jpg
@@ -28,6 +31,8 @@
   selected: true
   links:
     paper: https://arxiv.org/abs/2606.03986
+    page: https://astra-vision.github.io/NewtPhys/
+    code: https://github.com/astra-vision/NewtPhys
 
 - title: "OccAny: Generalized Unconstrained Urban 3D Occupancy"
   image: /images/pubs/occany.jpg
@@ -38,6 +43,7 @@
   links:
     paper: https://arxiv.org/abs/2603.23502
     page: https://valeoai.github.io/OccAny/
+    code: https://github.com/valeoai/OccAny
 
 - title: "Driving on Registers"
   image: /images/pubs/drivor.jpg
@@ -47,6 +53,8 @@
   selected: true
   links:
     paper: https://arxiv.org/abs/2601.05083
+    page: https://valeoai.github.io/driving-on-registers/
+    code: https://github.com/valeoai/DrivoR
 
 - title: "Domain Adaptation with a Single Vision-Language Embedding"
   image: /images/pubs/single-vl-embedding.jpg
@@ -82,6 +90,7 @@
   year: 2025
   links:
     paper: https://arxiv.org/abs/2511.17455
+    code: https://github.com/valeoai/muddos
 
 - title: "IPA: An Information-Reconstructive Input Projection Framework for Efficient Foundation Model Adaptation"
   image: /images/pubs/ipa.jpg
@@ -90,6 +99,7 @@
   year: 2025
   links:
     paper: https://arxiv.org/abs/2509.04398
+    code: https://github.com/valeoai/peft-ipa
 
 - title: "FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation"
   image: /images/pubs/floss.jpg
@@ -100,6 +110,7 @@
   links:
     paper: https://arxiv.org/abs/2504.10487
     page: https://yasserben.github.io/FLOSS/
+    code: https://github.com/yasserben/FLOSS
 
 - title: "VaViM and VaVAM: Autonomous Driving through Video Generative Modeling"
   image: /images/pubs/vavim.jpg
@@ -120,7 +131,7 @@
   selected: true
   links:
     paper: https://arxiv.org/abs/2312.09231
-    page: https://valeoai.github.io/blog/publications/GenVal
+    page: https://valeoai.github.io/publications/genval/
     code: https://github.com/valeoai/GenVal
 
 - title: "Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation"
@@ -140,6 +151,7 @@
   links:
     paper: https://arxiv.org/abs/2409.15107
     page: https://benchmarks.elsa-ai.eu/?ch=1&com=introduction
+    code: https://github.com/valeoai/bravo_challenge
 
 - title: "Valeo4Cast: A Modular Approach to End-to-End Forecasting"
   image: /images/pubs/valeo4cast.jpg
@@ -149,6 +161,9 @@
   note: "Argoverse 2 challenge winner"
   links:
     paper: https://arxiv.org/abs/2406.08113
+    page: https://valeoai.github.io/publications/valeo4cast/
+    video: https://www.youtube.com/watch?v=2BvoPbW4vpc&t=1107s
+    code: https://github.com/valeoai/valeo4cast
 
 - title: "A Simple Recipe for Language-guided Domain Generalized Segmentation"
   image: /images/pubs/famix.jpg
@@ -211,6 +226,7 @@
   year: 2022
   links:
     paper: https://arxiv.org/abs/2204.11667
+    code: https://github.com/valeoai/MuHDi
 
 - title: "CSG0: Continual Urban Scene Generation with Zero Forgetting"
   image: /images/pubs/csg0.jpg
@@ -228,6 +244,7 @@
   year: 2021
   links:
     paper: https://arxiv.org/abs/2108.06962
+    code: https://github.com/valeoai/MTAF
 
 - title: "Handling New Target Classes in Semantic Segmentation with Domain Adaptation"
   image: /images/pubs/buda.jpg
@@ -273,6 +290,7 @@
   year: 2020
   links:
     paper: https://arxiv.org/abs/2006.08658
+    code: https://github.com/valeoai/ESL
 
 - title: "Zero-Shot Semantic Segmentation"
   image: /images/pubs/zs3.jpg
