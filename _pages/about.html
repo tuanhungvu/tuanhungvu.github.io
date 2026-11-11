@@ -64,6 +64,28 @@ My research focuses on deep learning for scene understanding, with an emphasis o
   </details>
 </section>
 
+<section class="section" id="students">
+  <h2 class="section__title">Students</h2>
+  <div class="students">
+    <div class="card">
+      <h3 class="card__title">Current</h3>
+      <ul class="people">
+        {%- for s in site.data.students.current %}
+        <li><strong>{{ s.name }}</strong><span class="muted">{{ s.role }} · {{ s.years }}</span></li>
+        {%- endfor %}
+      </ul>
+    </div>
+    <div class="card">
+      <h3 class="card__title">Alumni</h3>
+      <ul class="people">
+        {%- for s in site.data.students.alumni %}
+        <li><strong>{{ s.name }}</strong><span class="muted">{{ s.role }} · {{ s.years }}</span>{% if s.now %}<span class="people__now"><i class="fa-solid fa-arrow-right" aria-hidden="true"></i> {{ s.now }}</span>{% endif %}</li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
 <section class="section" id="publications">
   <div class="section__head">
     <h2 class="section__title">Publications</h2>
