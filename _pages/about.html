@@ -88,15 +88,15 @@ My current research focuses on end-to-end autonomous driving and the foundation 
 
 <section class="section" id="publications">
   <div class="section__head">
-    <h2 class="section__title">Publications</h2>
+    <h2 class="section__title" id="pubs-title">Selected Publications</h2>
     <div class="segmented" role="group" aria-label="Filter publications">
-      <button type="button" data-filter="selected" aria-pressed="false">Selected</button>
-      <button type="button" data-filter="all" aria-pressed="true">All ({{ site.data.publications | size }})</button>
+      <button type="button" data-filter="selected" aria-pressed="true">Selected</button>
+      <button type="button" data-filter="all" aria-pressed="false">All ({{ site.data.publications | size }})</button>
     </div>
   </div>
   <p class="section__lead">Full and up-to-date list on <a href="{{ p.links[0].url }}">Google Scholar</a>.</p>
 
-  <div class="pubs" data-mode="all">
+  <div class="pubs" data-mode="selected">
     {%- assign groups = site.data.publications | group_by: "year" -%}
     {%- for g in groups %}
     <div class="pubs__year">

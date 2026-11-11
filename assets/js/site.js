@@ -31,8 +31,10 @@
     pubs.querySelectorAll(".pubs__year").forEach(function (y) {
       if (!y.querySelector(".pub.is-selected")) y.classList.add("is-empty");
     });
+    var title = document.getElementById("pubs-title");
     var setMode = function (mode) {
       pubs.setAttribute("data-mode", mode);
+      if (title) title.textContent = mode === "selected" ? "Selected Publications" : "All Publications";
       buttons.forEach(function (b) {
         b.setAttribute("aria-pressed", String(b.getAttribute("data-filter") === mode));
       });
@@ -40,7 +42,7 @@
     buttons.forEach(function (b) {
       b.addEventListener("click", function () { setMode(b.getAttribute("data-filter")); });
     });
-    setMode("all");
+    setMode("selected");
   }
 
   // Highlight the nav link of the section in view.
