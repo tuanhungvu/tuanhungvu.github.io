@@ -31,11 +31,12 @@ links:
     url: https://www.linkedin.com/in/tuanhungvu/
 
 interests:
-  - Scene understanding
-  - Domain adaptation & generalization
-  - Vision-language models
-  - 3D perception
-  - Generative models for driving
+  - End-to-end driving
+  - Vision-language-action (VLA) models
+  - World models
+  - Visual geometry foundation models
+  - Multi-agent reinforcement learning
+  - Foundation model distillation
 
 education:
   - degree: "PhD in Computer Vision"
