@@ -7,6 +7,12 @@ current:
   - name: "Mohammad Fahes"
     role: "PhD student"
     years: "2023–present"
+  - name: "Marion Hubler"
+    role: "Pre-doc"
+    years: "2026"
+  - name: "Marlone Lequeux"
+    role: "Master intern"
+    years: "2026"
 
 alumni:
   - name: "Björn Michele"
